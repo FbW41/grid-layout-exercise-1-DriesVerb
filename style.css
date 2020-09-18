@@ -1,3 +1,5 @@
+/* homework for DCI */
+
 *, *::before, *::after {
     margin: 0;
     padding: 0;
@@ -81,7 +83,7 @@ main div img {
 }
 
 main div img:hover {
-    transform: scale(1.5);
+    transform: scale(2);
     
 }
 
